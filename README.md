@@ -14,7 +14,7 @@ ClearComm AI is an application designed to enhance audio input streams by reduci
 
 1. Clone the repository:
     ```
-    git clone https://github.com/yourusername/clear-comm-ai.git
+    git clone https://github.com/8r4n/clear-comm-ai.git
     ```
 2. Navigate to the project directory:
     ```
