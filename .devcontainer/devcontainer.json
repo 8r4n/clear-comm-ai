@@ -1,0 +1,15 @@
+
+{  
+    "name": "clear-comm-devcontainer",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "extensions": [
+        "ms-python.python",
+        "github.copilot"
+    ]
+    
+    // "mounts": [
+    //   "source=/path/to/source, target=/path/to/target, type=bind, consistency=cached"
+    // ]
+}
